@@ -1,0 +1,2 @@
+# trxclickbot
+cd trxclickbot
